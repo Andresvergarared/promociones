@@ -3,4 +3,4 @@
 Integrantes
 
 ~ Santiago  Palomo(instituciona)
->> Andres Vergara (Institucional)
+~ Andres Vergara (Institucional)
